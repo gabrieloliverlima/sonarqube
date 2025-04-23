@@ -153,7 +153,6 @@ Você pode ajustar essas portas no recurso `digitalocean_firewall`.
 ├── output.tf            # Saída de IP da Droplet
 ├── provider.tf          # Configuração do provedor DigitalOcean
 ├── script.sh            # Script remoto de instalação do Docker + SonarQube
-├── terraform.tfvars     # Valores definidos pelo usuário
 ├── variables.tf         # Declaração de variáveis
 └── README.md            # Este arquivo
 ```
